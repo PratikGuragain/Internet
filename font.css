@@ -16,10 +16,10 @@
     justify-content: center;
 }
 .cell {
-    border: 1px solid teal;
+    border: 1px solid rgb(0, 26, 255);
     padding: 0.5em;
 }
-.family {    font-family: Arial Helvetica Georgia sans-serif;
+.family {    font-family: "Micro 5";
 }
 .size {
     font-size: 2em;
@@ -28,7 +28,7 @@
     font-variant: small-caps;
 }
 .style {
-    font-style: italic;
+    font-style: arial;
 }
 .weight {
     font-weight: 600;
@@ -117,3 +117,5 @@
 .float {
     float: right;
 }
+
+    
