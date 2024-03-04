@@ -3,3 +3,5 @@ h2.blue { color: blue; }
 .gray { color: gray; }
 #golden { color: goldenrod; }
 .container :nth-child(2n) { background: yellow; }
+div:first-child { color: red;}
+div:last-child { color: red;}
