@@ -1,0 +1,32 @@
+ol :nth-child(2n+1)
+{
+    background: purple;
+    margin:1em;
+    color: blanchedalmond;
+    padding: 1em;
+    margin-top: 2em;
+}
+ol :nth-child(2n)
+{
+    background: lawngreen;
+    margin:1em;
+    color: rgb(0, 0, 0);
+    padding: 1em;
+    margin-top: 2em;
+}
+ul :nth-child(2n+1)
+{
+    background: rebeccapurple;
+    margin:1em;
+    color: aliceblue;
+    padding: 1em;
+    margin-top: 2em;
+}
+ul :nth-child(2n)
+{
+    background: navy;
+    margin:1em;
+    color: rgb(0, 0, 0);
+    padding: 1em;
+    margin-top: 2em;
+}

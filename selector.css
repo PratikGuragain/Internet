@@ -1,6 +1,6 @@
 h1 { color: red; }
 h2.blue { color: blue; }
-.gray { color: gray; }
+.purple { color: rgb(141, 0, 169); }
 #golden { color: goldenrod; }
 .container :nth-child(2n) { background: yellow; }
 div:first-child { color: red;}
